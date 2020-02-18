@@ -1,0 +1,145 @@
+{"message":"Trying to login User: facturacion@red24-monitoreo.com.ar Password: red_rojo@_24 Auth method: PLAIN IP: 127.0.0.1","level":"info","service":"mailproxy","timestamp":"2020-02-16 09:21:27"}
+{"message":"Trying to login User: facturacion@red24-monitoreo.com.ar Password: red_rojo@_24 Auth method: PLAIN IP: 127.0.0.1","level":"info","service":"mailproxy","timestamp":"2020-02-16 09:35:42"}
+{"message":"User loged: facturacion@red24-monitoreo.com.ar","level":"info","service":"mailproxy","timestamp":"2020-02-16 09:35:42"}
+{"message":"Trying to send mail From: facturacion@red24-monitoreo.com.ar to: José Huertas <jhuertasdeveloper@gmail.com> IP: 127.0.0.1","level":"info","service":"mailproxy","timestamp":"2020-02-16 09:35:42"}
+{"message":"Message delivered succesfully from: facturacion@red24-monitoreo.com.ar to: José Huertas <jhuertasdeveloper@gmail.com>","level":"info","service":"mailproxy","timestamp":"2020-02-16 09:35:46"}
+{"message":"Trying to login User: facturacion@red24-monitoreo.com.ar Password: red_rojo@_24 Auth method: PLAIN IP: 127.0.0.1","level":"info","service":"mailproxy","timestamp":"2020-02-16 10:02:19"}
+{"message":"User loged: facturacion@red24-monitoreo.com.ar","level":"info","service":"mailproxy","timestamp":"2020-02-16 10:02:19"}
+{"message":"Trying to send mail From: Andris <andris@kreata.ee> to: Jose <jose@red24-monitoreo.com.ar> IP: 127.0.0.1","level":"info","service":"mailproxy","timestamp":"2020-02-16 10:02:19"}
+{"message":"Error while sending mail From: Andris <andris@kreata.ee> to: Jose <jose@red24-monitoreo.com.ar> Error: Error: Can't send mail - all recipients were rejected: 553 5.7.1 <andris@kreata.ee>: Sender address rejected: not owned by user mailadmin@red24-monitoreo.com.ar IP: 127.0.0.1","level":"error","service":"mailproxy","timestamp":"2020-02-16 10:02:22"}
+{"message":"Trying to login User: facturacion@red24-monitoreo.com.ar Password: red_rojo@_24 Auth method: PLAIN IP: 127.0.0.1","level":"info","service":"mailproxy","timestamp":"2020-02-16 10:04:48"}
+{"message":"User loged: facturacion@red24-monitoreo.com.ar","level":"info","service":"mailproxy","timestamp":"2020-02-16 10:04:48"}
+{"message":"Trying to send mail From: Facturacion UNIT TEST <facturacion@red24-monitoreo.com.ar> to: Jose <jose@red24-monitoreo.com.ar> IP: 127.0.0.1","level":"info","service":"mailproxy","timestamp":"2020-02-16 10:04:48"}
+{"message":"Message delivered succesfully from: Facturacion UNIT TEST <facturacion@red24-monitoreo.com.ar> to: Jose <jose@red24-monitoreo.com.ar>","level":"info","service":"mailproxy","timestamp":"2020-02-16 10:04:50"}
+{"message":"Trying to login User: facturacion@red24-monitoreo.com.ar Password: red_rojo@_24 Auth method: PLAIN IP: 127.0.0.1","level":"info","service":"mailproxy","timestamp":"2020-02-16 10:06:04"}
+{"message":"User loged: facturacion@red24-monitoreo.com.ar","level":"info","service":"mailproxy","timestamp":"2020-02-16 10:06:04"}
+{"message":"Trying to send mail From: Facturacion UNIT TEST <facturacion@red24-monitoreo.com.ar> to: Jose <jose@red24-monitoreo.com.ar> IP: 127.0.0.1","level":"info","service":"mailproxy","timestamp":"2020-02-16 10:06:04"}
+{"message":"Message delivered succesfully from: Facturacion UNIT TEST <facturacion@red24-monitoreo.com.ar> to: Jose <jose@red24-monitoreo.com.ar>","level":"info","service":"mailproxy","timestamp":"2020-02-16 10:06:06"}
+{"message":"Trying to login User: facturacion@red24-monitoreo.com.ar Password: red_rojo@_24 Auth method: PLAIN IP: 127.0.0.1","level":"info","service":"mailproxy","timestamp":"2020-02-16 10:17:35"}
+{"message":"User loged: facturacion@red24-monitoreo.com.ar","level":"info","service":"mailproxy","timestamp":"2020-02-16 10:17:35"}
+{"message":"Trying to send mail From: Facturacion UNIT TEST <facturacion@red24-monitoreo.com.ar> to: Jose <jose@red24-monitoreo.com.ar> IP: 127.0.0.1","level":"info","service":"mailproxy","timestamp":"2020-02-16 10:17:35"}
+{"message":"Message delivered succesfully from: Facturacion UNIT TEST <facturacion@red24-monitoreo.com.ar> to: Jose <jose@red24-monitoreo.com.ar>","level":"info","service":"mailproxy","timestamp":"2020-02-16 10:17:38"}
+{"message":"Trying to login User: facturacion@red24-monitoreo.com.ar Password: red_rojo@_24 Auth method: PLAIN IP: 127.0.0.1","level":"info","service":"mailproxy","timestamp":"2020-02-16 10:18:13"}
+{"message":"User loged: facturacion@red24-monitoreo.com.ar","level":"info","service":"mailproxy","timestamp":"2020-02-16 10:18:13"}
+{"message":"Trying to send mail From: Facturacion UNIT TEST <facturacion@red24-monitoreo.com.ar> to: Jose <jose@red24-monitoreo.com.ar> IP: 127.0.0.1","level":"info","service":"mailproxy","timestamp":"2020-02-16 10:18:13"}
+{"message":"Message delivered succesfully from: Facturacion UNIT TEST <facturacion@red24-monitoreo.com.ar> to: Jose <jose@red24-monitoreo.com.ar>","level":"info","service":"mailproxy","timestamp":"2020-02-16 10:18:15"}
+{"message":"Trying to login User: facturacion@red24-monitoreo.com.ar Password: red_rojo@_24 Auth method: PLAIN IP: 127.0.0.1","level":"info","service":"mailproxy","timestamp":"2020-02-16 10:18:35"}
+{"message":"User loged: facturacion@red24-monitoreo.com.ar","level":"info","service":"mailproxy","timestamp":"2020-02-16 10:18:35"}
+{"message":"Trying to send mail From: Facturacion UNIT TEST <facturacion@red24-monitoreo.com.ar> to: Jose <jose@red24-monitoreo.com.ar> IP: 127.0.0.1","level":"info","service":"mailproxy","timestamp":"2020-02-16 10:18:35"}
+{"message":"Trying to login User: facturacion@red24-monitoreo.com.ar Password: red_rojo@_24 Auth method: PLAIN IP: 127.0.0.1","level":"info","service":"mailproxy","timestamp":"2020-02-16 10:19:49"}
+{"message":"User loged: facturacion@red24-monitoreo.com.ar","level":"info","service":"mailproxy","timestamp":"2020-02-16 10:19:49"}
+{"message":"Trying to send mail From: Facturacion UNIT TEST <facturacion@red24-monitoreo.com.ar> to: Jose <jose@red24-monitoreo.com.ar> IP: 127.0.0.1","level":"info","service":"mailproxy","timestamp":"2020-02-16 10:19:49"}
+{"message":"Message delivered succesfully from: Facturacion UNIT TEST <facturacion@red24-monitoreo.com.ar> to: Jose <jose@red24-monitoreo.com.ar>","level":"info","service":"mailproxy","timestamp":"2020-02-16 10:19:52"}
+{"message":"Trying to login User: facturacion@red24-monitoreo.com.ar Password: red_rojo@_24 Auth method: PLAIN IP: 127.0.0.1","level":"info","service":"mailproxy","timestamp":"2020-02-16 10:20:11"}
+{"message":"User loged: facturacion@red24-monitoreo.com.ar","level":"info","service":"mailproxy","timestamp":"2020-02-16 10:20:11"}
+{"message":"Trying to send mail From: Facturacion UNIT TEST <facturacion@red24-monitoreo.com.ar> to: Jose <jose@red24-monitoreo.com.ar> IP: 127.0.0.1","level":"info","service":"mailproxy","timestamp":"2020-02-16 10:20:11"}
+{"message":"Message delivered succesfully from: Facturacion UNIT TEST <facturacion@red24-monitoreo.com.ar> to: Jose <jose@red24-monitoreo.com.ar>","level":"info","service":"mailproxy","timestamp":"2020-02-16 10:20:13"}
+{"message":"Trying to login User: facturacion@red24-monitoreo.com.ar Password: red_rojo@_24 Auth method: PLAIN IP: 127.0.0.1","level":"info","service":"mailproxy","timestamp":"2020-02-16 10:20:13"}
+{"message":"User loged: facturacion@red24-monitoreo.com.ar","level":"info","service":"mailproxy","timestamp":"2020-02-16 10:20:13"}
+{"message":"Trying to send mail From: Facturacion UNIT TEST <facturacion@red24-monitoreo.com.ar> to: Jose <jose@red24-monitoreo.com.ar> IP: 127.0.0.1","level":"info","service":"mailproxy","timestamp":"2020-02-16 10:20:13"}
+{"message":"Message delivered succesfully from: Facturacion UNIT TEST <facturacion@red24-monitoreo.com.ar> to: Jose <jose@red24-monitoreo.com.ar>","level":"info","service":"mailproxy","timestamp":"2020-02-16 10:20:16"}
+{"message":"Trying to login User: facturacion@red24-monitoreo.com.ar Password: red_rojo@_24 Auth method: PLAIN IP: 127.0.0.1","level":"info","service":"mailproxy","timestamp":"2020-02-16 10:20:23"}
+{"message":"User loged: facturacion@red24-monitoreo.com.ar","level":"info","service":"mailproxy","timestamp":"2020-02-16 10:20:23"}
+{"message":"Trying to send mail From: Facturacion UNIT TEST <facturacion@red24-monitoreo.com.ar> to: Jose <jose@red24-monitoreo.com.ar> IP: 127.0.0.1","level":"info","service":"mailproxy","timestamp":"2020-02-16 10:20:23"}
+{"message":"Message delivered succesfully from: Facturacion UNIT TEST <facturacion@red24-monitoreo.com.ar> to: Jose <jose@red24-monitoreo.com.ar>","level":"info","service":"mailproxy","timestamp":"2020-02-16 10:20:26"}
+{"message":"Trying to login User: facturacion@red24-monitoreo.com.ar Password: red_rojo@_24 Auth method: PLAIN IP: 127.0.0.1","level":"info","service":"mailproxy","timestamp":"2020-02-17 15:38:17"}
+{"message":"User loged: facturacion@red24-monitoreo.com.ar","level":"info","service":"mailproxy","timestamp":"2020-02-17 15:38:17"}
+{"message":"Trying to login User: facturacion@red24-monitoreo.com.ar Password: red_rojo@_24 Auth method: PLAIN IP: 127.0.0.1","level":"info","service":"mailproxy","timestamp":"2020-02-17 15:38:56"}
+{"message":"User loged: facturacion@red24-monitoreo.com.ar","level":"info","service":"mailproxy","timestamp":"2020-02-17 15:38:56"}
+{"message":"Trying to login User: facturacion@red24-monitoreo.com.ar Password: red_rojo@_24 Auth method: PLAIN IP: 127.0.0.1","level":"info","service":"mailproxy","timestamp":"2020-02-17 15:40:58"}
+{"message":"User loged: facturacion@red24-monitoreo.com.ar","level":"info","service":"mailproxy","timestamp":"2020-02-17 15:40:58"}
+{"message":"Trying to login User: facturacion@red24-monitoreo.com.ar Password: red_rojo@_24 Auth method: PLAIN IP: 127.0.0.1","level":"info","service":"mailproxy","timestamp":"2020-02-17 15:42:33"}
+{"message":"User loged: facturacion@red24-monitoreo.com.ar","level":"info","service":"mailproxy","timestamp":"2020-02-17 15:42:33"}
+{"message":"Trying to login User: facturacion@red24-monitoreo.com.ar Password: red_rojo@_24 Auth method: PLAIN IP: 127.0.0.1","level":"info","service":"mailproxy","timestamp":"2020-02-17 15:44:51"}
+{"message":"User loged: facturacion@red24-monitoreo.com.ar","level":"info","service":"mailproxy","timestamp":"2020-02-17 15:44:51"}
+{"message":"Error parsing mail: TypeError: Cannot read property 'sendMail' of undefined","level":"error","service":"mailproxy","timestamp":"2020-02-17 15:44:51"}
+{"message":"Trying to login User: facturacion@red24-monitoreo.com.ar Password: red_rojo@_24 Auth method: PLAIN IP: 127.0.0.1","level":"info","service":"mailproxy","timestamp":"2020-02-17 15:45:10"}
+{"message":"User loged: facturacion@red24-monitoreo.com.ar","level":"info","service":"mailproxy","timestamp":"2020-02-17 15:45:10"}
+{"message":"Error parsing mail: TypeError: Cannot read property 'sendMail' of undefined","level":"error","service":"mailproxy","timestamp":"2020-02-17 15:45:10"}
+{"message":"Trying to login User: facturacion@red24-monitoreo.com.ar Password: red_rojo@_24 Auth method: PLAIN IP: 127.0.0.1","level":"info","service":"mailproxy","timestamp":"2020-02-17 15:49:30"}
+{"message":"User loged: facturacion@red24-monitoreo.com.ar","level":"info","service":"mailproxy","timestamp":"2020-02-17 15:49:30"}
+{"message":"Error parsing mail: TypeError: Cannot read property 'sendMail' of undefined","level":"error","service":"mailproxy","timestamp":"2020-02-17 15:49:30"}
+{"message":"Trying to login User: facturacion@red24-monitoreo.com.ar Password: red_rojo@_24 Auth method: PLAIN IP: 127.0.0.1","level":"info","service":"mailproxy","timestamp":"2020-02-17 15:51:25"}
+{"message":"User loged: facturacion@red24-monitoreo.com.ar","level":"info","service":"mailproxy","timestamp":"2020-02-17 15:51:25"}
+{"message":"Error parsing mail: TypeError: Cannot read property 'sendMail' of undefined","level":"error","service":"mailproxy","timestamp":"2020-02-17 15:51:25"}
+{"message":"Trying to login User: facturacion@red24-monitoreo.com.ar Password: red_rojo@_24 Auth method: PLAIN IP: 127.0.0.1","level":"info","service":"mailproxy","timestamp":"2020-02-17 15:53:35"}
+{"message":"User loged: facturacion@red24-monitoreo.com.ar","level":"info","service":"mailproxy","timestamp":"2020-02-17 15:53:35"}
+{"message":"Error parsing mail: TypeError: Cannot read property 'sendMail' of undefined","level":"error","service":"mailproxy","timestamp":"2020-02-17 15:53:35"}
+{"message":"Trying to login User: facturacion@red24-monitoreo.com.ar Password: red_rojo@_24 Auth method: PLAIN IP: 127.0.0.1","level":"info","service":"mailproxy","timestamp":"2020-02-17 15:54:26"}
+{"message":"User loged: facturacion@red24-monitoreo.com.ar","level":"info","service":"mailproxy","timestamp":"2020-02-17 15:54:26"}
+{"message":"Trying to login User: facturacion@red24-monitoreo.com.ar Password: red_rojo@_24 Auth method: PLAIN IP: 127.0.0.1","level":"info","service":"mailproxy","timestamp":"2020-02-17 15:55:09"}
+{"message":"User loged: facturacion@red24-monitoreo.com.ar","level":"info","service":"mailproxy","timestamp":"2020-02-17 15:55:09"}
+{"message":"Error parsing mail: TypeError: Cannot read property 'sendMail' of undefined","level":"error","service":"mailproxy","timestamp":"2020-02-17 15:55:09"}
+{"message":"Trying to login User: facturacion@red24-monitoreo.com.ar Password: red_rojo@_24 Auth method: PLAIN IP: 127.0.0.1","level":"info","service":"mailproxy","timestamp":"2020-02-17 15:55:16"}
+{"message":"User loged: facturacion@red24-monitoreo.com.ar","level":"info","service":"mailproxy","timestamp":"2020-02-17 15:55:16"}
+{"message":"Error parsing mail: TypeError: Cannot read property 'sendMail' of undefined","level":"error","service":"mailproxy","timestamp":"2020-02-17 15:55:16"}
+{"message":"Trying to login User: facturacion@red24-monitoreo.com.ar Password: red_rojo@_24 Auth method: PLAIN IP: 127.0.0.1","level":"info","service":"mailproxy","timestamp":"2020-02-17 15:55:47"}
+{"message":"User loged: facturacion@red24-monitoreo.com.ar","level":"info","service":"mailproxy","timestamp":"2020-02-17 15:55:47"}
+{"message":"Trying to send mail From: Facturacion UNIT TEST <facturacion@red24-monitoreo.com.ar> to: Jose <jose@red24-monitoreo.com.ar> IP: 127.0.0.1","level":"info","service":"mailproxy","timestamp":"2020-02-17 15:55:47"}
+{"message":"Message delivered succesfully from: Facturacion UNIT TEST <facturacion@red24-monitoreo.com.ar> to: Jose <jose@red24-monitoreo.com.ar>","level":"info","service":"mailproxy","timestamp":"2020-02-17 15:55:51"}
+{"message":"Trying to login User: facturacion@red24-monitoreo.com.ar Password: red_rojo@_24 Auth method: PLAIN IP: 127.0.0.1","level":"info","service":"mailproxy","timestamp":"2020-02-17 15:58:17"}
+{"message":"User loged: facturacion@red24-monitoreo.com.ar","level":"info","service":"mailproxy","timestamp":"2020-02-17 15:58:17"}
+{"message":"Trying to send mail From: Facturacion UNIT TEST <facturacion@red24-monitoreo.com.ar> to: Jose <jose@red24-monitoreo.com.ar> IP: 127.0.0.1","level":"info","service":"mailproxy","timestamp":"2020-02-17 15:58:17"}
+{"message":"Message delivered succesfully from: Facturacion UNIT TEST <facturacion@red24-monitoreo.com.ar> to: Jose <jose@red24-monitoreo.com.ar>","level":"info","service":"mailproxy","timestamp":"2020-02-17 15:58:19"}
+{"message":"Trying to login User: facturacion@red24-monitoreo.com.ar Password: red_rojo@_24 Auth method: PLAIN IP: 127.0.0.1","level":"info","service":"mailproxy","timestamp":"2020-02-17 15:59:27"}
+{"message":"User loged: facturacion@red24-monitoreo.com.ar","level":"info","service":"mailproxy","timestamp":"2020-02-17 15:59:27"}
+{"message":"Trying to send mail From: Facturacion UNIT TEST <facturacion@red24-monitoreo.com.ar> to: Jose <jose@red24-monitoreo.com.ar> IP: 127.0.0.1","level":"info","service":"mailproxy","timestamp":"2020-02-17 15:59:27"}
+{"message":"Message delivered succesfully from: Facturacion UNIT TEST <facturacion@red24-monitoreo.com.ar> to: Jose <jose@red24-monitoreo.com.ar>","level":"info","service":"mailproxy","timestamp":"2020-02-17 15:59:29"}
+{"message":"Trying to login User: facturacion@red24-monitoreo.com.ar Password: red_rojo@_24 Auth method: PLAIN IP: 127.0.0.1","level":"info","service":"mailproxy","timestamp":"2020-02-18 13:44:34"}
+{"message":"User loged: facturacion@red24-monitoreo.com.ar","level":"info","service":"mailproxy","timestamp":"2020-02-18 13:44:34"}
+{"message":"Trying to send mail From: Facturacion UNIT TEST <facturacion@red24-monitoreo.com.ar> to: Jose <jose@red24-monitoreo.com.ar> IP: 127.0.0.1","level":"info","service":"mailproxy","timestamp":"2020-02-18 13:44:34"}
+{"message":"Message delivered succesfully from: Facturacion UNIT TEST <facturacion@red24-monitoreo.com.ar> to: Jose <jose@red24-monitoreo.com.ar>","level":"info","service":"mailproxy","timestamp":"2020-02-18 13:44:38"}
+{"message":"Trying to login User: facturacion@red24-monitoreo.com.ar Password: red_rojo@_24 Auth method: PLAIN IP: 127.0.0.1","level":"info","service":"mailproxy","timestamp":"2020-02-18 13:49:31"}
+{"message":"Trying to login User: facturacion@red24-monitoreo.com.ar Password: red_rojo@_24 Auth method: PLAIN IP: 127.0.0.1","level":"info","service":"mailproxy","timestamp":"2020-02-18 13:50:57"}
+{"message":"Trying to login User: facturacion@red24-monitoreo.com.ar Password: red_rojo@_24 Auth method: PLAIN IP: 127.0.0.1","level":"info","service":"mailproxy","timestamp":"2020-02-18 14:02:28"}
+{"message":"User loged: facturacion@red24-monitoreo.com.ar","level":"info","service":"mailproxy","timestamp":"2020-02-18 14:02:28"}
+{"message":"Trying to send mail From: Facturacion UNIT TEST <facturacion@red24-monitoreo.com.ar> to: Jose <jose@red24-monitoreo.com.ar> IP: 127.0.0.1","level":"info","service":"mailproxy","timestamp":"2020-02-18 14:02:28"}
+{"message":"Message delivered succesfully from: Facturacion UNIT TEST <facturacion@red24-monitoreo.com.ar> to: Jose <jose@red24-monitoreo.com.ar>","level":"info","service":"mailproxy","timestamp":"2020-02-18 14:02:31"}
+{"message":"Trying to login User: facturacion@red24-monitoreo.com.ar Password: red_rojo@_24 Auth method: PLAIN IP: 127.0.0.1","level":"info","service":"mailproxy","timestamp":"2020-02-18 14:15:41"}
+{"message":"User loged: facturacion@red24-monitoreo.com.ar","level":"info","service":"mailproxy","timestamp":"2020-02-18 14:15:41"}
+{"message":"Trying to send mail From: Facturacion UNIT TEST <facturacion@red24-monitoreo.com.ar> to: Jose <jose@red24-monitoreo.com.ar> IP: 127.0.0.1","level":"info","service":"mailproxy","timestamp":"2020-02-18 14:15:41"}
+{"message":"Trying to login User: facturacion@red24-monitoreo.com.ar Password: red_rojo@_24 Auth method: PLAIN IP: 127.0.0.1","level":"info","service":"mailproxy","timestamp":"2020-02-18 14:15:52"}
+{"message":"Trying to login User: facturacion@red24-monitoreo.com.ar Password: red_rojo@_24 Auth method: PLAIN IP: 127.0.0.1","level":"info","service":"mailproxy","timestamp":"2020-02-18 14:23:17"}
+{"message":"User loged: facturacion@red24-monitoreo.com.ar","level":"info","service":"mailproxy","timestamp":"2020-02-18 14:23:17"}
+{"message":"Trying to send mail From: Facturacion UNIT TEST <facturacion@red24-monitoreo.com.ar> to: Jose <jose@red24-monitoreo.com.ar> IP: 127.0.0.1","level":"info","service":"mailproxy","timestamp":"2020-02-18 14:23:18"}
+{"message":"Message delivered succesfully from: Facturacion UNIT TEST <facturacion@red24-monitoreo.com.ar> to: Jose <jose@red24-monitoreo.com.ar>","level":"info","service":"mailproxy","timestamp":"2020-02-18 14:23:20"}
+{"message":"Trying to login User: facturacion@red24-monitoreo.com.ar Password: red_rojo@_24 Auth method: PLAIN IP: 127.0.0.1","level":"info","service":"mailproxy","timestamp":"2020-02-18 14:38:25"}
+{"message":"User loged: facturacion@red24-monitoreo.com.ar","level":"info","service":"mailproxy","timestamp":"2020-02-18 14:38:25"}
+{"message":"Error parsing mail: TypeError: this.isDefined is not a function","level":"error","service":"mailproxy","timestamp":"2020-02-18 14:38:25"}
+{"message":"Trying to login User: facturacion@red24-monitoreo.com.ar Password: red_rojo@_24 Auth method: PLAIN IP: 127.0.0.1","level":"info","service":"mailproxy","timestamp":"2020-02-18 14:40:19"}
+{"message":"User loged: facturacion@red24-monitoreo.com.ar","level":"info","service":"mailproxy","timestamp":"2020-02-18 14:40:19"}
+{"message":"Error parsing mail: TypeError: this.isDefined is not a function","level":"error","service":"mailproxy","timestamp":"2020-02-18 14:40:19"}
+{"message":"Trying to login User: facturacion@red24-monitoreo.com.ar Password: red_rojo@_24 Auth method: PLAIN IP: 127.0.0.1","level":"info","service":"mailproxy","timestamp":"2020-02-18 14:42:18"}
+{"message":"User loged: facturacion@red24-monitoreo.com.ar","level":"info","service":"mailproxy","timestamp":"2020-02-18 14:42:18"}
+{"message":"Error parsing mail: TypeError: this.isDefined is not a function","level":"error","service":"mailproxy","timestamp":"2020-02-18 14:42:18"}
+{"message":"Trying to login User: facturacion@red24-monitoreo.com.ar Password: red_rojo@_24 Auth method: PLAIN IP: 127.0.0.1","level":"info","service":"mailproxy","timestamp":"2020-02-18 14:43:16"}
+{"message":"User loged: facturacion@red24-monitoreo.com.ar","level":"info","service":"mailproxy","timestamp":"2020-02-18 14:43:16"}
+{"message":"Error parsing mail: TypeError: this.isDefined is not a function","level":"error","service":"mailproxy","timestamp":"2020-02-18 14:43:16"}
+{"message":"Trying to login User: facturacion@red24-monitoreo.com.ar Password: red_rojo@_24 Auth method: PLAIN IP: 127.0.0.1","level":"info","service":"mailproxy","timestamp":"2020-02-18 14:44:28"}
+{"message":"User loged: facturacion@red24-monitoreo.com.ar","level":"info","service":"mailproxy","timestamp":"2020-02-18 14:44:28"}
+{"message":"Error parsing mail: TypeError: this.isDefined is not a function","level":"error","service":"mailproxy","timestamp":"2020-02-18 14:44:28"}
+{"message":"Trying to login User: facturacion@red24-monitoreo.com.ar Password: red_rojo@_24 Auth method: PLAIN IP: 127.0.0.1","level":"info","service":"mailproxy","timestamp":"2020-02-18 14:47:07"}
+{"message":"User loged: facturacion@red24-monitoreo.com.ar","level":"info","service":"mailproxy","timestamp":"2020-02-18 14:47:07"}
+{"message":"Error parsing mail: TypeError: this.isDefined is not a function","level":"error","service":"mailproxy","timestamp":"2020-02-18 14:47:07"}
+{"message":"Trying to login User: facturacion@red24-monitoreo.com.ar Password: red_rojo@_24 Auth method: PLAIN IP: 127.0.0.1","level":"info","service":"mailproxy","timestamp":"2020-02-18 14:48:11"}
+{"message":"User loged: facturacion@red24-monitoreo.com.ar","level":"info","service":"mailproxy","timestamp":"2020-02-18 14:48:11"}
+{"message":"Error parsing mail: TypeError: this.isDefined is not a function","level":"error","service":"mailproxy","timestamp":"2020-02-18 14:48:11"}
+{"message":"Trying to login User: facturacion@red24-monitoreo.com.ar Password: red_rojo@_24 Auth method: PLAIN IP: 127.0.0.1","level":"info","service":"mailproxy","timestamp":"2020-02-18 14:50:53"}
+{"message":"User loged: facturacion@red24-monitoreo.com.ar","level":"info","service":"mailproxy","timestamp":"2020-02-18 14:50:53"}
+{"message":"Error parsing mail: TypeError: this.isDefined is not a function","level":"error","service":"mailproxy","timestamp":"2020-02-18 14:50:53"}
+{"message":"Trying to login User: facturacion@red24-monitoreo.com.ar Password: red_rojo@_24 Auth method: PLAIN IP: 127.0.0.1","level":"info","service":"mailproxy","timestamp":"2020-02-18 14:51:46"}
+{"message":"User loged: facturacion@red24-monitoreo.com.ar","level":"info","service":"mailproxy","timestamp":"2020-02-18 14:51:46"}
+{"message":"Error parsing mail: TypeError: this.isDefined is not a function","level":"error","service":"mailproxy","timestamp":"2020-02-18 14:51:46"}
+{"message":"Trying to login User: facturacion@red24-monitoreo.com.ar Password: red_rojo@_24 Auth method: PLAIN IP: 127.0.0.1","level":"info","service":"mailproxy","timestamp":"2020-02-18 14:51:54"}
+{"message":"User loged: facturacion@red24-monitoreo.com.ar","level":"info","service":"mailproxy","timestamp":"2020-02-18 14:51:54"}
+{"message":"Error parsing mail: TypeError: this.isDefined is not a function","level":"error","service":"mailproxy","timestamp":"2020-02-18 14:51:54"}
+{"message":"Trying to login User: facturacion@red24-monitoreo.com.ar Password: red_rojo@_24 Auth method: PLAIN IP: 127.0.0.1","level":"info","service":"mailproxy","timestamp":"2020-02-18 14:52:40"}
+{"message":"User loged: facturacion@red24-monitoreo.com.ar","level":"info","service":"mailproxy","timestamp":"2020-02-18 14:52:40"}
+{"message":"Trying to login User: facturacion@red24-monitoreo.com.ar Password: red_rojo@_24 Auth method: PLAIN IP: 127.0.0.1","level":"info","service":"mailproxy","timestamp":"2020-02-18 14:54:20"}
+{"message":"User loged: facturacion@red24-monitoreo.com.ar","level":"info","service":"mailproxy","timestamp":"2020-02-18 14:54:20"}
+{"message":"Trying to send mail From: Facturacion UNIT TEST <facturacion@red24-monitoreo.com.ar> to: Jose <jose@red24-monitoreo.com.ar> IP: 127.0.0.1","level":"info","service":"mailproxy","timestamp":"2020-02-18 14:54:20"}
+{"message":"Message delivered succesfully from: Facturacion UNIT TEST <facturacion@red24-monitoreo.com.ar> to: Jose <jose@red24-monitoreo.com.ar>","level":"info","service":"mailproxy","timestamp":"2020-02-18 14:54:22"}
+{"message":"Trying to login User: facturacion@red24-monitoreo.com.ar Password: red_rojo@_24 Auth method: PLAIN IP: 127.0.0.1","level":"info","service":"mailproxy","timestamp":"2020-02-18 14:56:57"}
+{"message":"User loged: facturacion@red24-monitoreo.com.ar","level":"info","service":"mailproxy","timestamp":"2020-02-18 14:56:57"}
+{"message":"Trying to send mail From: Facturacion UNIT TEST <facturacion@red24-monitoreo.com.ar> to: Jose <jose@red24-monitoreo.com.ar> IP: 127.0.0.1","level":"info","service":"mailproxy","timestamp":"2020-02-18 14:56:57"}
+{"message":"Message delivered succesfully from: Facturacion UNIT TEST <facturacion@red24-monitoreo.com.ar> to: Jose <jose@red24-monitoreo.com.ar>","level":"info","service":"mailproxy","timestamp":"2020-02-18 14:57:00"}

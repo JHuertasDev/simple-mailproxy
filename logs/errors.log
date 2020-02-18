@@ -1,0 +1,18 @@
+{"message":"Error while sending mail From: Andris <andris@kreata.ee> to: Jose <jose@red24-monitoreo.com.ar> Error: Error: Can't send mail - all recipients were rejected: 553 5.7.1 <andris@kreata.ee>: Sender address rejected: not owned by user mailadmin@red24-monitoreo.com.ar IP: 127.0.0.1","level":"error","service":"mailproxy","timestamp":"2020-02-16 10:02:22"}
+{"message":"Error parsing mail: TypeError: Cannot read property 'sendMail' of undefined","level":"error","service":"mailproxy","timestamp":"2020-02-17 15:44:51"}
+{"message":"Error parsing mail: TypeError: Cannot read property 'sendMail' of undefined","level":"error","service":"mailproxy","timestamp":"2020-02-17 15:45:10"}
+{"message":"Error parsing mail: TypeError: Cannot read property 'sendMail' of undefined","level":"error","service":"mailproxy","timestamp":"2020-02-17 15:49:30"}
+{"message":"Error parsing mail: TypeError: Cannot read property 'sendMail' of undefined","level":"error","service":"mailproxy","timestamp":"2020-02-17 15:51:25"}
+{"message":"Error parsing mail: TypeError: Cannot read property 'sendMail' of undefined","level":"error","service":"mailproxy","timestamp":"2020-02-17 15:53:35"}
+{"message":"Error parsing mail: TypeError: Cannot read property 'sendMail' of undefined","level":"error","service":"mailproxy","timestamp":"2020-02-17 15:55:09"}
+{"message":"Error parsing mail: TypeError: Cannot read property 'sendMail' of undefined","level":"error","service":"mailproxy","timestamp":"2020-02-17 15:55:16"}
+{"message":"Error parsing mail: TypeError: this.isDefined is not a function","level":"error","service":"mailproxy","timestamp":"2020-02-18 14:38:25"}
+{"message":"Error parsing mail: TypeError: this.isDefined is not a function","level":"error","service":"mailproxy","timestamp":"2020-02-18 14:40:19"}
+{"message":"Error parsing mail: TypeError: this.isDefined is not a function","level":"error","service":"mailproxy","timestamp":"2020-02-18 14:42:18"}
+{"message":"Error parsing mail: TypeError: this.isDefined is not a function","level":"error","service":"mailproxy","timestamp":"2020-02-18 14:43:16"}
+{"message":"Error parsing mail: TypeError: this.isDefined is not a function","level":"error","service":"mailproxy","timestamp":"2020-02-18 14:44:28"}
+{"message":"Error parsing mail: TypeError: this.isDefined is not a function","level":"error","service":"mailproxy","timestamp":"2020-02-18 14:47:07"}
+{"message":"Error parsing mail: TypeError: this.isDefined is not a function","level":"error","service":"mailproxy","timestamp":"2020-02-18 14:48:11"}
+{"message":"Error parsing mail: TypeError: this.isDefined is not a function","level":"error","service":"mailproxy","timestamp":"2020-02-18 14:50:53"}
+{"message":"Error parsing mail: TypeError: this.isDefined is not a function","level":"error","service":"mailproxy","timestamp":"2020-02-18 14:51:46"}
+{"message":"Error parsing mail: TypeError: this.isDefined is not a function","level":"error","service":"mailproxy","timestamp":"2020-02-18 14:51:54"}

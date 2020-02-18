@@ -1,0 +1,12 @@
+{
+    "remote":{
+        "host": "smtp.host.com",
+        "port": 587,
+        "username":"relay@dominio",
+        "password":"password"
+    },
+    "local":{
+        "port":"2525",
+        "name":"box.red24-monitoreo.com.ar"
+    }
+}
